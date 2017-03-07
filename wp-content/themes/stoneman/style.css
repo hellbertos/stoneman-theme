@@ -1,15 +1,14 @@
 /*
-Theme Name: 
+Theme Name: Stoneman Web
 Theme URI: 
 Description: 
-Version: 
-Author: 
+Version: 1.0
+Author: JR
 Author URI: 
 Tags: 
 */
 
 
 /* STYLESHEET */
-
-@import "reset.css";
-@import "main.css";
+@import url('css/reset.css') screen;
+@import url('css/main.css') screen;
